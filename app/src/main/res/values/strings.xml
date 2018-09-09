@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Anything Shop</string>
+    <string name="noobieData">Add new data</string>
+    <string name="deleteAll">Delete all data</string>
+    <string name="ifEmpty">Click add button to start filling the stock.</string>
+    <string name="sale">Sale</string>
+    <string name="deleteConfirmationMessage">Are you sure you want to erase data?</string>
+    <string name="delete">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="newItem">Add new item</string>
+    <string name="ifNewItemBarName">Add new item</string>
+    <string name="ifEditItemBarName">Edit item</string>
+    <string name="saveImage">Save item</string>
+    <string name="orderMenu">Order Item</string>
+    <string name="deleteItem">Delete item</string>
+    <string name="orderConfirmationMessage">You can place an order by phone or e-mail</string>
+    <string name="phone">Phone</string>
+    <string name="email">E-mail</string>
+    <string name="quantityTitle">Quantity</string>
+    <string name="priceTitle">Price</string>
+    <string name="nameTitle">Item name</string>
+    <string name="hintEmailAddress">supplier@mail.com</string>
+    <string name="supplierEmail">Supplier E-mail Address</string>
+    <string name="supplierPhoneHint">012345678</string>
+    <string name="supplierPhone">Supplier Phone</string>
+    <string name="supplierNameHint"> Supplier GmbH</string>
+    <string name="supplierName">Supplier Name</string>
+    <string name="selectImage">Select image</string>
+    <string name="image">Image</string>
+    <string name="validate">There is input missing.</string>
+    <string name="added">Data added.</string>
+</resources>
